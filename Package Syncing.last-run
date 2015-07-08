@@ -1,0 +1,56 @@
+{
+    "last_local_data": {
+        "Default (Linux).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/neil/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap", 
+            "version": 1436162533.9957516
+        }, 
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/neil/.config/sublime-text-2/Packages/User/Default (OSX).sublime-keymap", 
+            "version": 1436162533.9957516
+        }, 
+        "Default (Windows).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/neil/.config/sublime-text-2/Packages/User/Default (Windows).sublime-keymap", 
+            "version": 1436162533.9957516
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "/home/neil/.config/sublime-text-2/Packages/User/Package Control.sublime-settings", 
+            "version": 1436327447.7951157
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "/home/neil/.config/sublime-text-2/Packages/User/Preferences.sublime-settings", 
+            "version": 1436327448.7991157
+        }
+    }, 
+    "last_remote_data": {
+        "Default (Linux).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/neil/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap", 
+            "version": 1436162533.9957516
+        }, 
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/neil/.config/sublime-text-2/Packages/User/Default (OSX).sublime-keymap", 
+            "version": 1436162533.9957516
+        }, 
+        "Default (Windows).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/neil/.config/sublime-text-2/Packages/User/Default (Windows).sublime-keymap", 
+            "version": 1436162533.9957516
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "/home/neil/.config/sublime-text-2/Packages/User/Package Control.sublime-settings", 
+            "version": 1436327447.7951157
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "/home/neil/.config/sublime-text-2/Packages/User/Preferences.sublime-settings", 
+            "version": 1436327448.7991157
+        }
+    }
+}

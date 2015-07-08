@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"Package Syncing",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal",
+		"Tomorrow Color Schemes"
+	]
+}
